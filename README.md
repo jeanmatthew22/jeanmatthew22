@@ -66,5 +66,5 @@
 
 ### 🐍 GitHub Contribution Snake:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.yml" alt="Snake animation" />
 </p>
