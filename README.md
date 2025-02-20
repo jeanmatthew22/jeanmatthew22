@@ -61,10 +61,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
-
----
-
-### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg" alt="Snake animation" />
-</p>
