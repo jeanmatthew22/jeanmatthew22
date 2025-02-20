@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matthew and I'm an Ethical Hacker & Web Developer from the Philippines</h2>
+<h2 align="left">Hi 👋! My name is Matthew and I'm an White Hat member & Web Developer from the Philippines</h2>
 
 ---
 
@@ -11,10 +11,10 @@
 
 ### 🛡️ About Me:
 - 🔹 Ethical Hacker & Web Developer
-- 🔹 Specializing in **Java, Python, PHP**
-- 🔹 Passionate about **Cybersecurity, Web Security & Ethical Hacking**
+- 🔹 Specializing in **Java, Python, PHP , Android Studio**
+- 🔹 Passionate about **Cybersecurity, Web Security & Ethical Hacking , Arduino , Web Development**
 - 🔹 Interested in **CTFs, Bug Bounty & Open Source Projects**
-- 🔹 Currently studying **Software Engineering & Cybersecurity**
+- 🔹 Currently studying **Computer Engineering & Cybersecurity**
 
 ---
 ### ⚡ Tech Stack:
