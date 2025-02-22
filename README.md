@@ -11,7 +11,7 @@
 
 ### 🛡️ About Me:
 - 🔹 Ethical Hacking & Web Developer
-- 🔹 Specializing in **Java, Python, PHP , Kali linux , Android Studio**
+- 🔹 Specializing in **Java, Python, PHP , Kali linux , Android**
 - 🔹 Passionate about **Cybersecurity, Web Security & Ethical Hacking , Arduino , Web Development**
 - 🔹 Interested in **CTFs, Bug Bounty & Open Source Projects**
 - 🔹 Currently studying **Computer Engineering & Cybersecurity**
