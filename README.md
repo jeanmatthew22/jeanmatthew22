@@ -11,16 +11,14 @@
 
 ### 🛡️ About Me:
 - 🔹 Ethical Hacking & Web Developer
-- 🔹 Specializing in **Java, Python, PHP , Kali linux , Android**
-- 🔹 Passionate about **Cybersecurity, Web Security & Ethical Hacking , Arduino , Web Development**
+- 🔹 Specializing in ** Python, PHP , Kali linux**
+- 🔹 Passionate about **Ethical Hacking , Arduino , Web Development**
 - 🔹 Interested in **CTFs, Bug Bounty & Open Source Projects**
-- 🔹 Currently studying **Computer Engineering & Cybersecurity**
+- 🔹 Currently studying **Information Technology & Computer Engineering **
 
 ---
 ### ⚡ Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
@@ -33,13 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
   <img width="12" />
