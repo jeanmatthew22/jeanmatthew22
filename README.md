@@ -9,8 +9,6 @@
 
 ---
 
-
----
 ### ⚡ Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
@@ -29,3 +27,12 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" alt="Kali Linux" />
 </div>
+
+---
+
+### Ahas Kuno:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg">
+</picture>
