@@ -3,36 +3,42 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanmatthew22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="175" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanmatthew22&layout=compact&theme=dracula&langs_count=6" height="175" alt="Languages Graph" />
 </div>
 
 ---
 
-### ⚡ Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" alt="Kali Linux" />
-</div>
+### ⚡ Tech Stack & Tools:
+
+#### 💻 Programming & Web
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,cs,html,css,js,mysql" />
+  </a>
+</p>
+
+#### 🛡️ Networking & Ethical Hacking
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,nmap,bash,docker,pht,cisco" />
+  </a>
+</p>
+
+> **Note:** Included tools: Python, PHP, C#, HTML/CSS, JS, MySQL, Kali Linux, Nmap, Docker, and Cisco.
 
 ---
 
-### Ahas Kuno:
+### 🐍 Ahas Kuno (GitHub Snake):
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg">
   <img alt="github snake animation" src="https://raw.githubusercontent.com/jeanmatthew22/jeanmatthew22/output/snake.svg">
 </picture>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmatthew22&theme=dracula" alt="GitHub Streak" />
+</div>
+
