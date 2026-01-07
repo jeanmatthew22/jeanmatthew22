@@ -4,9 +4,9 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&theme=dracula&rank_icon=github" alt="Matthew's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&theme=dracula&rank_icon=github&v=1" alt="Matthew's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmatthew22&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmatthew22&layout=compact&theme=dracula&hide_border=false&v=1" alt="Top Languages" />
 </p>
 
 ---
@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jeanmatthew22&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jeanmatthew22&theme=dracula&v=1" alt="GitHub Streak" />
 </div>
