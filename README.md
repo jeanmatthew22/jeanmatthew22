@@ -2,10 +2,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="175" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanmatthew22&layout=compact&theme=dracula&langs_count=6" height="175" alt="Languages Graph" />
-</div>
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&theme=dracula&rank_icon=github" alt="Matthew's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmatthew22&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
@@ -14,18 +16,19 @@
 #### 💻 Programming & Web
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,cs,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,php,cs,html,css,js,mysql,bootstrap" />
   </a>
 </p>
 
 #### 🛡️ Networking & Ethical Hacking
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,nmap,bash,docker,pht,cisco" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,cisco,docker,bash,powershell" />
   </a>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="30" />
 </p>
-
-> **Note:** Included tools: Python, PHP, C#, HTML/CSS, JS, MySQL, Kali Linux, Nmap, Docker, and Cisco.
 
 ---
 
