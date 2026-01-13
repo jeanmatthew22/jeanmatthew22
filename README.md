@@ -1,15 +1,6 @@
 <h2 align="left">Hi 👋! My name is Matthew </h2>
 
----
 
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmatthew22&show_icons=true&theme=dracula&rank_icon=github&v=1" alt="Matthew's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmatthew22&layout=compact&theme=dracula&hide_border=false&v=1" alt="Top Languages" />
-</p>
-
----
 
 ### ⚡ Tech Stack & Tools:
 
